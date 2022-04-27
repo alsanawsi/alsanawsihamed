@@ -90,7 +90,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background-size: cover;
   background-attachment: fixed;
   position: relative;
-  height: 600px;
+  height: 450px;
   width: 100%;
 }
 #fh5co-header .overlay,
@@ -335,14 +335,14 @@ h1, h2, h3, h4, h5, h6, figure {
   padding-top: 0;
 }
 .info li .first-block {
-  width: 40%;
+  width: 35%;
   display: inline-block;
   float: left;
   color: #000;
   font-weight: bold;
 }
 .info li .second-block {
-  width: 60%;
+  width: 65%;
   display: inline-block;
   color: rgba(0, 0, 0, 0.5);
 }
